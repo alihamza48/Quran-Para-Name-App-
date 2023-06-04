@@ -13,12 +13,36 @@ public class MainActivity extends AppCompatActivity {
     private Button showButton;
 
     private String[] dataArray = {
-            "Data 1", "Data 2", "Data 3", "Data 4", "Data 5",
-            "Data 6", "Data 7", "Data 8", "Data 9", "Data 10",
-            "Data 11", "Data 12", "Data 13", "Data 14", "Data 15",
-            "Data 16", "Data 17", "Data 18", "Data 19", "Data 20",
-            "Data 21", "Data 22", "Data 23", "Data 24", "Data 25",
-            "Data 26", "Data 27", "Data 28", "Data 29", "Data 30"
+            "Alif Lam Meem",
+            "Sayaqool ",
+            "Tilkal Rusull",
+            "Lan Tana Loo",
+            "Wal Mohsanat",
+            "La Yuhibbullah",
+            "Wa Iza Samiu",
+            "Wa Lau Annana",
+            "Qalal Malao",
+            "Wa A'lamu",
+            "Yatazeroon ",
+            "Wa Mamin Da'abat",
+            "Wa Ma Ubrioo",
+            "Rubama",
+            "Subhanallazi",
+            "Qal Alam",
+            "Aqtarabo",
+            "Qadd Aflaha",
+            "Wa Qalallazina",
+            "A'man Khalaq",
+            "Utlu Ma Oohi",
+            "Wa Manyaqnut",
+            "Wa Mali",
+            "Faman Azlam",
+            "Elahe Yuruddo",
+            "Ha'a Meem",
+            "Qala Fama Khatbukum",
+            "Qadd Sami Allah",
+            "Tabarakallazi",
+            "Amma Yatasa'aloon"
     };
 
     @Override
